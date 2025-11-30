@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Clientes cliente = new Clientes();
 
-        cliente.setNombre(" ");
+        cliente.setNombre("  ");
         cliente.setApellidos(" ");
         cliente.setDireccion(" ");
         cliente.setNIF(" ");
