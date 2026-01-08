@@ -29,4 +29,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/
-*.iml
+/MueblesSL.iml
+/ed-dam1-2025.iml
